@@ -2,7 +2,7 @@
 <!-- Animated GIF banner (self-hosted: assets/matrix.gif). GitHub strips CSS/JS,
      so real animation is delivered as a GIF. -->
 <p align="center">
-  <img src="assets/matrix.gif" alt="Matrix rain banner" width="100%">
+  <img src="assets/matrix-soul-taker.gif" alt="Matrix rain banner" width="100%">
 </p>
 
 ---
