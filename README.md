@@ -72,3 +72,6 @@ IT Engineering graduate (Networks & Security, University of Aleppo, 2026), speci
 ---
 
 <p align="center"><i>"The best way to learn security is to build something, then break it."</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soul-taker-55&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views">
+</p>
